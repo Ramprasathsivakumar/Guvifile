@@ -1,0 +1,4 @@
+Read A
+Read b
+
+caculate a+b
